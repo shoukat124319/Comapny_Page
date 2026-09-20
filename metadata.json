@@ -1,0 +1,6 @@
+{
+  "name": "FATHER AND SONS ENTERPRISES",
+  "description": "Garment manufacturer and stitching service provider in Noida specializing in T-shirts, tops, dresses, casual wear, and custom B2B bulk apparel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
